@@ -92,11 +92,11 @@ python manage.py runserver
 
 # 5. Visit http://127.0.0.1:8000/ and upload your CSV to test!
 ```
+![Screenshot 2025-04-03 203245](https://github.com/user-attachments/assets/e961079a-010b-47f9-a129-490fd6ebd2d8)
+![Screenshot 2025-04-03 202703](https://github.com/user-attachments/assets/e3896087-742d-4887-a6cb-56cb27ae31bb)
+![Screenshot 2025-04-03 202828](https://github.com/user-attachments/assets/e0778a5e-e24c-45cc-bcc0-29d39082454b)
+![Screenshot 2025-04-03 202731](https://github.com/user-attachments/assets/b6a73e4a-cb5b-46fc-bc76-dedbc0ce30f1)
 
-![Screenshot 2025-04-03 203245](https://github.com/user-attachments/assets/061a55e7-6823-4f9a-9be1-bf2061a690c1)
-![Screenshot 2025-04-03 202703](https://github.com/user-attachments/assets/60de2d07-74c1-4c6c-8300-6b6743f10091)
-![Screenshot 2025-04-03 202828](https://github.com/user-attachments/assets/77c721e5-4507-4e5b-b9d6-f1288e5d4368)
-![Screenshot 2025-04-03 202731](https://github.com/user-attachments/assets/773a3ab3-b10d-4f03-8f42-77e314c68001)
 ---
 
 ## 🔮 Future Improvements
