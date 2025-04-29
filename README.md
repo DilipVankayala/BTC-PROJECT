@@ -92,6 +92,7 @@ python manage.py runserver
 
 # 5. Visit http://127.0.0.1:8000/ and upload your CSV to test!
 ```
+
 ![Screenshot 2025-04-03 203245](https://github.com/user-attachments/assets/061a55e7-6823-4f9a-9be1-bf2061a690c1)
 ![Screenshot 2025-04-03 202703](https://github.com/user-attachments/assets/60de2d07-74c1-4c6c-8300-6b6743f10091)
 ![Screenshot 2025-04-03 202828](https://github.com/user-attachments/assets/77c721e5-4507-4e5b-b9d6-f1288e5d4368)
