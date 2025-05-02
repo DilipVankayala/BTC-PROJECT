@@ -1,3 +1,4 @@
+![ChatGPT Image Apr 29, 2025, 03_05_59 PM](https://github.com/user-attachments/assets/7a1f1919-c639-4b25-8425-5bb9f72e68ef)
 <h1 align="center">📈 Bitcoin Price Prediction using ML</h1>
 <p align="center">
   Predict Bitcoin price movements using smart machine learning models with a clean Django interface.
@@ -67,7 +68,7 @@ bitcoin-price-prediction/
 - ✅ Project report (PDF)
 - ✅ Presentation (PPT)
 - ✅ Dataset (CSV)
-- ✅ Trained model files (optional)
+- ✅ Trained model files
 - ✅ Full Django source code
 - ✅ Base paper and publication
 
